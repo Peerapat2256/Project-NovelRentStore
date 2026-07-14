@@ -7,7 +7,7 @@
 > ** Notice:** The source code is temporarily kept private until the final university project defense is completed. However, you are highly encouraged to explore the live demo and system architecture below!
 
 ##  Live Demo
-[![Website](https://img.shields.io/badge/Website-Visit_Live_Demo-4F8B82?style=for-the-badge&logo=google-chrome&logoColor=white)]([ใส่ลิงก์เว็บของคุณที่นี่])
+[![Website](https://img.shields.io/badge/Website-Visit_Live_Demo-4F8B82?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://p66-novelrent-web.csmsu.net/])
 
 ---
 
