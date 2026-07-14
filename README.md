@@ -34,7 +34,7 @@ The highlight of the platform is its **Custom Reading Engine**, which processes 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ## 🧠 System Architecture Highlight
 One of the core technical achievements of this project is the **PDF-to-WebP Concurrency Pipeline**:
 1. When an admin uploads a book, the Go backend triggers a non-blocking background job.
